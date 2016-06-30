@@ -1,0 +1,1 @@
+export ALSDIR="$HOME/ALSDIR"
