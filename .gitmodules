@@ -1,0 +1,3 @@
+[submodule "microsemi-chip"]
+	path = microsemi-chip
+	url = ../microsemi-chip.git
